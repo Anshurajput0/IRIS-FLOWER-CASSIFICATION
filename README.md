@@ -1,2 +1,2 @@
 # IRIS-FLOWER-CASSIFICATION
-dkfjsdfds
+The Iris Flower Classification project is an application of machine learning techniques to accurately identify and classify different species of iris flowers based on their characteristics. The project aims to leverage the power of data analysis and pattern recognition to create a reliable model capable of automatically categorizing iris flowers into distinct species, namely Setosa, Versicolor, and Virginica.
